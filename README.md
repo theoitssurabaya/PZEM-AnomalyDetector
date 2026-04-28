@@ -32,6 +32,16 @@ The overall system architecture consists of four primary components:
 
 ---
 
+## Wiring Diagram
+| Component | GPIO Pin | Description |
+| :--- | :--- | :--- |
+| **Relay Module** | GPIO 18 | Power cut-off control (Anomaly detection) |
+| **PZEM-004T TX** | GPIO 16 (RX2) | Serial data reception from sensor |
+| **PZEM-004T RX** | GPIO 17 (TX2) | Serial data transmission to sensor |
+| **Power Supply** | 5V / 3.3V | ESP32 and Relay power source |
+
+---
+
 ## Features
 - Electrical device classification based on power usage patterns
 - Detection of idle (no device connected) states
