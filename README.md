@@ -93,3 +93,14 @@ Anomaly detection is implemented using the distance between an incoming sample a
   "powerFactor": 0.92,
   "energy": 0.0125
 }
+```
+
+---
+
+## Documentation
+
+### Product Overview
+<img width="1280" height="960" alt="tes" src="https://github.com/user-attachments/assets/755d2d2f-5796-4e49-afcb-f6036726f69e" />
+
+### Email Anomaly Warning
+<img width="960" height="1280" alt="WhatsApp Image 2026-04-29 at 15 07 17" src="https://github.com/user-attachments/assets/d5372351-20bb-46e1-b606-01e3704ef446" />
